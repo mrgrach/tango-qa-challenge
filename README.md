@@ -24,6 +24,7 @@ npx cypress open
 - Add a test case to verify the reset password scenario 
 - Add test cases to assert error messages when user types invalid inputs
 - Add test cases to verify Tango's privacy policy and terms of service links
+- Replace explicit waits 
 
 ## TODO for a login e2e
 - Create a new POM for the left nav bar
